@@ -2,16 +2,11 @@ export default [
   {
     id: 1,
     description:
-      'React Native ile mobil uygulama geliştirmek için harika bir rehber.React Native ile mobil uygulama geliştirmek için harika bir rehber.React Native ile mobil uygulama geliştirmek için harika bir rehber.React Native ile mobil uygulama geliştirmek için harika bir rehber.React Native ile mobil uygulama geliştirmek için harika bir rehber.React Native ile mobil uygulama geliştirmek için harika bir rehber.',
+      'React Native ile mobil uygulama geliştirmek için harika bir rehber.React Native ile mobil uygulama geliştirmek için harika bir rehber.React Native ile mobil uygulama geliştirmek için harika bir rehber.React Native ile mobil uygulama geliştirmek için harika bir rehber.',
     date: '2024-06-02 11:00:00',
     likes: 150,
     comments: 30,
-    media: {
-      src: 'https://images.unsplash.com/photo-1547721064-da6cfb341d50',
-      with: 1080,
-      height: 607,
-    },
-    image: 'https://images.unsplash.com/photo-1547721064-da6cfb341d50',
+    image: 'https://picsum.photos/1080/607',
     user: {
       name: 'Ali',
       avatar: 'https://randomuser.me/api/portraits/men/1.jpg',
@@ -23,7 +18,8 @@ export default [
     date: '2023-05-13',
     likes: 200,
     comments: 50,
-    image: 'https://images.unsplash.com/photo-1547721064-da6cfb341d50',
+    image: 'https://picsum.photos/1080/608',
+
     user: {
       name: 'Ali Veli',
       avatar: 'https://randomuser.me/api/portraits/men/2.jpg',
@@ -35,7 +31,8 @@ export default [
     date: '2023-05-14',
     likes: 120,
     comments: 20,
-    image: 'https://images.unsplash.com/photo-1547721064-da6cfb341d50',
+    image: 'https://picsum.photos/1080/609',
+
     user: {
       name: 'Ayşe Yılmaz',
       avatar: 'https://randomuser.me/api/portraits/women/3.jpg',
@@ -47,7 +44,8 @@ export default [
     date: '2023-05-15',
     likes: 300,
     comments: 80,
-    image: 'https://images.unsplash.com/photo-1547721064-da6cfb341d50',
+    image: 'https://picsum.photos/1080/610',
+
     user: {
       name: 'Mehmet Kaya',
       avatar: 'https://randomuser.me/api/portraits/men/4.jpg',
@@ -59,7 +57,8 @@ export default [
     date: '2023-05-16',
     likes: 180,
     comments: 40,
-    image: 'https://images.unsplash.com/photo-1547721064-da6cfb341d50',
+    image: 'https://picsum.photos/1080/611',
+
     user: {
       name: 'Fatma Demir',
       avatar: 'https://randomuser.me/api/portraits/women/5.jpg',
@@ -71,7 +70,8 @@ export default [
     date: '2023-05-17',
     likes: 250,
     comments: 70,
-    image: 'https://images.unsplash.com/photo-1547721064-da6cfb341d50',
+    image: 'https://picsum.photos/1080/612',
+
     user: {
       name: 'Canan Ak',
       avatar: 'https://randomuser.me/api/portraits/women/6.jpg',
@@ -83,7 +83,8 @@ export default [
     date: '2023-05-18',
     likes: 220,
     comments: 60,
-    image: 'https://images.unsplash.com/photo-1494783367193-149034c05e8f',
+    image: 'https://picsum.photos/1080/607',
+
     user: {
       name: 'Burak Taş',
       avatar: 'https://randomuser.me/api/portraits/men/7.jpg',
@@ -95,7 +96,8 @@ export default [
     date: '2023-05-19',
     likes: 310,
     comments: 90,
-    image: 'https://images.unsplash.com/photo-1547721064-da6cfb341d50',
+    image: 'https://picsum.photos/1080/613',
+
     user: {
       name: 'Elif Sönmez',
       avatar: 'https://randomuser.me/api/portraits/women/8.jpg',
@@ -107,7 +109,7 @@ export default [
     date: '2023-05-20',
     likes: 270,
     comments: 85,
-    image: 'https://images.unsplash.com/photo-1440557653082-e8e186733eeb',
+    image: 'https://picsum.photos/1080/614',
     user: {
       name: 'Ahmet Yıldız',
       avatar: 'https://randomuser.me/api/portraits/men/9.jpg',
@@ -119,7 +121,7 @@ export default [
     date: '2023-05-21',
     likes: 160,
     comments: 45,
-    image: 'https://images.unsplash.com/photo-1512820790803-83ca734da794',
+    image: 'https://picsum.photos/1080/615',
     user: {
       name: 'Zeynep Kılıç',
       avatar: 'https://randomuser.me/api/portraits/women/10.jpg',
@@ -131,7 +133,7 @@ export default [
     date: '2023-05-22',
     likes: 280,
     comments: 75,
-    image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0',
+    image: 'https://picsum.photos/1080/616',
     user: {
       name: 'Hasan Demir',
       avatar: 'https://randomuser.me/api/portraits/men/11.jpg',
@@ -143,7 +145,7 @@ export default [
     date: '2023-05-23',
     likes: 230,
     comments: 65,
-    image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0',
+    image: 'https://picsum.photos/1080/617',
     user: {
       name: 'Merve Kır',
       avatar: 'https://randomuser.me/api/portraits/women/12.jpg',
@@ -155,7 +157,7 @@ export default [
     date: '2023-05-24',
     likes: 190,
     comments: 55,
-    image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0',
+    image: 'https://picsum.photos/1080/618',
     user: {
       name: 'Kerem Çelik',
       avatar: 'https://randomuser.me/api/portraits/men/13.jpg',
@@ -167,7 +169,7 @@ export default [
     date: '2023-05-25',
     likes: 240,
     comments: 70,
-    image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0',
+    image: 'https://picsum.photos/1080/619',
     user: {
       name: 'Leyla Kılıç',
       avatar: 'https://randomuser.me/api/portraits/women/14.jpg',
@@ -179,7 +181,7 @@ export default [
     date: '2023-05-26',
     likes: 260,
     comments: 80,
-    image: 'https://images.unsplash.com/photo-1516373172941-39b19e1195b8',
+    image: 'https://picsum.photos/1080/620',
     user: {
       name: 'Tuna Erbilen',
       avatar: 'https://randomuser.me/api/portraits/men/15.jpg',
@@ -191,7 +193,7 @@ export default [
     date: '2023-05-27',
     likes: 300,
     comments: 90,
-    image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0',
+    image: 'https://picsum.photos/1080/621',
     user: {
       name: 'Sibel Çelik',
       avatar: 'https://randomuser.me/api/portraits/women/16.jpg',
@@ -203,7 +205,7 @@ export default [
     date: '2023-05-28',
     likes: 310,
     comments: 85,
-    image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0',
+    image: 'https://picsum.photos/1080/621',
     user: {
       name: 'Görkem Taş',
       avatar: 'https://randomuser.me/api/portraits/men/17.jpg',
@@ -215,7 +217,7 @@ export default [
     date: '2023-05-29',
     likes: 320,
     comments: 95,
-    image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0',
+    image: 'https://picsum.photos/1080/622',
     user: {
       name: 'Deniz Ak',
       avatar: 'https://randomuser.me/api/portraits/women/18.jpg',
@@ -227,7 +229,7 @@ export default [
     date: '2023-05-30',
     likes: 330,
     comments: 100,
-    image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0',
+    image: 'https://picsum.photos/1080/623',
     user: {
       name: 'Barış Yılmaz',
       avatar: 'https://randomuser.me/api/portraits/men/19.jpg',
@@ -239,7 +241,7 @@ export default [
     date: '2023-05-31',
     likes: 340,
     comments: 110,
-    image: 'https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0',
+    image: 'https://picsum.photos/1080/624',
     user: {
       name: 'Esra Sönmez',
       avatar: 'https://randomuser.me/api/portraits/women/20.jpg',
